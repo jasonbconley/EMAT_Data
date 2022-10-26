@@ -7,3 +7,6 @@
 ## Likes Report:
 ### Taking instagram data from personal account, visualizing with a Seaborn heatmap. Trigger warning, cringey instagram post.
 - [nbviewer](https://nbviewer.org/github/jasonbconley/EMAT_Data/blob/cc7634968c36f92992a101348d2082edb8947457/Conley_Likes_Report.ipynb)
+
+## Twitter Report:
+- [nbviewer](https://nbviewer.org/github/jasonbconley/Jupyter-Notebooks/blob/fc71104beaf7edce3ed266ea2ce457b171625bab/Conley%20Twitter%20Report.ipynb)

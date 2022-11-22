@@ -14,4 +14,4 @@
 
 ## Off-Facebook Activity and Albym Analysis Report:
 ### This report examined my data from Facebook, specifically the data Facebook had regarding my off-site activity. The report then analyzes three albums and their audio features using the Spotify API.
-- [nbviewer](https://nbviewer.org/github/jasonbconley/Jupyter-Notebooks/blob/86d86935760b8371931b81689486d723c30bea19/Conley%20Off-Facebook%20Activity.ipynb)
+- [nbviewer](https://nbviewer.org/github/jasonbconley/Jupyter-Notebooks/blob/dd7a0e73a666706fcb05e657866baef2c1c5eabd/Conley%20Off-Facebook%20Activity.ipynb)
